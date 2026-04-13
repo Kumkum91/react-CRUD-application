@@ -98,13 +98,11 @@ App will run at:
 
 I’ve added some screenshots to show the UI and flow of the app:
 
-```
 ![Dashboard](screenshots/mainUI.png)
 ![Add Form](screenshots/AddNewUser.png)
 ![Edit Form](screenshots/EditData.png)
 ![Confirmation dialog box](screenshots/confirmDialog.png)
 ![Notification Toast](screenshots/toastNotification.png)
-```
 
 ---
 
