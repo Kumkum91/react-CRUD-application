@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "name": "kumkum",
+      "username": "kumkumKKK",
+      "email": "23cd3022@rgipt.ac.in",
+      "age": 22,
+      "id": "P0A7pJS-7k4"
+    },
+    {
+      "name": "first-try",
+      "username": "23cd3022",
+      "email": "23cd3022@rgipt.ac.in",
+      "age": 70,
+      "id": "9riCOps_jhg"
+    },
+    {
+      "name": "edhyuewgf",
+      "username": "wejbudcfuwef",
+      "email": "buwfbiuwFBI@gmail.com",
+      "age": 22,
+      "id": "vKKNbG6Lap4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
